@@ -1,15 +1,15 @@
+/*made bullets white, when background-color: white was entered, nothing changed*/
 .header-menu {
-  color: red
+  color: white
 }
 
+/*div nav wrapper gray*/
 .nav-wrapper {
   background-color: gray
 }
 
-.logo-wrapper {
-  background-color: pink
-}
-
-.header-cart_wrapper {
-  background-color: orange
+/*trying again*/
+/*colored main menu background*/
+.main-menu-dropdown {
+  background-color: #dadada
 }
